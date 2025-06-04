@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anna!</h1>
-<h3 align="center">A Data Scientist</h3>
+
 
 - 📫 How to reach me **Annaclaunorza@gmail.com**
 
